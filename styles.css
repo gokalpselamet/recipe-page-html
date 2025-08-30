@@ -41,14 +41,14 @@ hr {
 }
 
 h1 {
-  font-family: Young Serif;
+  font-family: "Young Serif", Arial, Helvetica, sans-serif;
   font-weight: 400;
   color: rgba(0, 0, 0, 1);
   margin-left: 20px;
 }
 
 h2 {
-  font-family: Young Serif;
+  font-family: "Young Serif", Arial, Helvetica, sans-serif;
   font-weight: 400;
   color: hsl(14, 45%, 36%);
   margin-left: 20px;
@@ -56,7 +56,7 @@ h2 {
 }
 
 h3 {
-  font-family: Young Serif;
+  font-family: "Young Serif", Arial, Helvetica, sans-serif;
   font-weight: 400;
   color: hsl(14, 45%, 36%);
   margin-left: 20px;
@@ -122,4 +122,3 @@ li::marker {
   font-weight: 700;
   color: hsl(14, 45%, 36%);
 }
-
