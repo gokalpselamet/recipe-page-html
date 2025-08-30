@@ -115,9 +115,11 @@ li::marker {
   width: 100%;
   margin-top: 10px;
   margin-left: 20px;
+  margin-bottom: 20px;
 }
 
 .nutrition-value {
   font-weight: 700;
   color: hsl(14, 45%, 36%);
 }
+
