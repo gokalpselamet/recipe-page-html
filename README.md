@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h1>🍽️ Demo Recipe Page in HTML</h1>
+  <h1>🍽️ Demo Recipe Page</h1>
   <p>This project is a simple yet elegant recipe page built using HTML and CSS. It provides a clean layout to showcase your recipes in a user-friendly and visually appealing way.</p>
 
   <h2>Features</h2>
