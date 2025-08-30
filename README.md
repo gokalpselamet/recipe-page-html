@@ -17,3 +17,5 @@
     <li><strong>Image Support</strong>: Add high-quality images for each recipe.</li>
     <li><strong>Interactive Elements</strong>: Buttons, links, and other clickable elements are included.</li>
   </ul>
+
+<p>Assets and fonts are provided by <a href="https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm">this</a> challenge.</p>
